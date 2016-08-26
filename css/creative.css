@@ -46,7 +46,12 @@ p {
   background-color: #F05F40;
 }
 .bg-dark {
-  background-color: #222222;
+  background-color: rgba(34, 34, 34, 0.62);
+  color: white;
+}
+
+.bg-dark-two {
+  background-color: rgba(34, 34, 34, 0.27);
   color: white;
 }
 .text-faded {
